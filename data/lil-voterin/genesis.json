@@ -1,0 +1,10 @@
+{"accounts":[
+  {
+    "pubkey":"EB8E9168E92A30C003559195C3CE6860794D82B7B043B49795E4D97CB3B638C0",
+    "account":{"sequence":0, "type":1}
+  },
+  {
+    "pubkey":"0A17E70E35A91812A604B84D07DF2AD903976A7FB705ADE93481384FA116FBEB",
+    "account":{"sequence":0, "type":2}
+  }
+]}

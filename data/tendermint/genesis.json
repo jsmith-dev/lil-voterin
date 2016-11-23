@@ -1,0 +1,15 @@
+{
+	"app_hash": "",
+	"chain_id": "test-chain-sltvKq",
+	"genesis_time": "0001-01-01T00:00:00.000Z",
+	"validators": [
+		{
+			"amount": 10,
+			"name": "",
+			"pub_key": [
+				1,
+			"EB8E9168E92A30C003559195C3CE6860794D82B7B043B49795E4D97CB3B638C0"
+			]
+		}
+	]
+}
